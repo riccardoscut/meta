@@ -1,2 +1,0 @@
-# meta
-sign pool metadata
